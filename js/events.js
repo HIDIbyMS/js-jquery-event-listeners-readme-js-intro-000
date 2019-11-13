@@ -5,9 +5,8 @@ function getIt(){
   });
 }
 
-$("p").click(getIt, function(){
-  alert("Hey!");
-});
+
+
 
 
 $(document).ready(function(){
