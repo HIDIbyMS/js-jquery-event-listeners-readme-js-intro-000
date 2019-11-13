@@ -1,9 +1,10 @@
 //define functions here
-function getIt(){}
+function getIt(){
+  alert("Hey!");
+}
 
 
 $(document).ready(function(){
-
 // call functions here
 
 });
