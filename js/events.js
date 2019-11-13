@@ -11,7 +11,11 @@ function frameIt(){
   });
 }
 
-
+function pressIt(){
+  $('').on('keydown', function(){
+    
+  });
+}
 
 $(document).ready(function(){
 // call functions here
