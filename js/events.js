@@ -21,10 +21,9 @@ function pressIt(){
 
 function submitIt(){
   $('form').on('submit', function(){
-    if($('imput:first').val() === "correct"){
+  
       alert("Your form is going to be submitted now.");
-      return;
-    }
+   
   });
 }
 
